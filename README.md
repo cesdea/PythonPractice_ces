@@ -6,5 +6,5 @@ python study-basic
 ## 1day
 변수, 제어문, 반복문
 
-## 2day
+## 3day
 함수, 데이터 타입
